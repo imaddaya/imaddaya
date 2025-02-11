@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [My family issues](sorry its private)
+- 🔭 I’m currently working on [getting better at coding]
 
-- 🌱 I’m currently learning **Hard origami shapes**
+- 🌱 I’m currently learning **javascript**
 
-- ⚡ Fun fact **My Fingers are fast ...if ykyk**
+- ⚡ Fun fact **i finished Luxor on hardmode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
