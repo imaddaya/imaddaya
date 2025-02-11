@@ -1,12 +1,11 @@
-![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 <h1 align="center">Hi 👋, I'm imad daya</h1>
-<h3 align="center">A Humble Man With a Big d..dddd....dream of course.</h3>
+<h3 align="center">future software developper.</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/209/209037.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaddaya&label=Profile%20views&color=0e75b6&style=flat" alt="imaddaya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [getting better at coding]
+- 🔭 I’m currently working on getting better at coding
 
 - 🌱 I’m currently learning **javascript**
 
