@@ -1,25 +1,91 @@
-<h1 align="center">Hi 👋, I'm imad daya</h1>
-<h3 align="center">future software developper.</h3>
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/209/209037.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imaddaya&label=Profile%20views&color=0e75b6&style=flat" alt="imaddaya" /> </p>
+<h1 align="center">Hi 👋, I'm Imad Daya</h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">Software Developer | Full-Stack • Backend • AI/ML</h3>
 
-- 🔭 I’m currently working on getting better at coding
+I'm a software developer focused on building **full-stack applications, backend systems, REST APIs, and AI/ML solutions**.
 
-- 🌱 I’m currently learning **javascript**
+My main experience is with **Python, TypeScript, JavaScript, React, Next.js, FastAPI, SQL, and PyTorch**. I enjoy working across the stack — from database design and backend APIs to frontend interfaces and machine learning systems.
 
-- ⚡ Fun fact **i finished Luxor on hardmode**
+I'm currently expanding my backend development skills with **Java, Spring Boot, and Hibernate**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🛠️ Technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imaddaya&show_icons=true&locale=en&layout=compact" alt="imaddaya" /></p>
+**Languages**
+Python • TypeScript • JavaScript • Java *(learning)* • SQL • C • C++
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imaddaya&show_icons=true&locale=en" alt="imaddaya" /></p>
+**Frontend**
+React • Next.js • Angular • HTML • CSS
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imaddaya&" alt="imaddaya" /></p>
+**Backend**
+FastAPI • REST APIs • Node.js • Spring Boot *(learning)*
+
+**Databases & ORM**
+PostgreSQL • MySQL • SQLAlchemy • Hibernate *(learning)*
+
+**AI / Machine Learning**
+PyTorch • Deep Learning • Computer Vision • Medical Image Classification
+
+**Tools & Platforms**
+Git • GitHub • Docker • Linux / Ubuntu • WSL • Bash • Postman • Vite • npm
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 Stock Portfolio Tracker
+
+A full-stack stock portfolio management application built with **React, Next.js, TypeScript, Python, FastAPI, SQLAlchemy, and REST APIs**.
+
+Features include authentication, stock search, portfolio management, market-data integration, historical performance tracking, gains/losses analytics, interactive charts, email verification, password reset, and scheduled portfolio summaries.
+
+**Backend:**
+https://github.com/imaddaya/stock-tracker
+
+**Frontend:**
+https://github.com/imaddaya/stock-porfolio-tracker-frontend
+
+---
+
+### 🧠 Renal Tumor Subtype Classification
+
+A deep-learning system for classifying renal tumor subtypes from histopathology images using **Python and PyTorch**.
+
+The project explores multiple architectures including **ResNet18, Attention-Based MIL, Vision Mamba, and KAN-based variants**, with evaluation using confusion matrices, precision, recall, F1-score, and class-specific error analysis.
+
+It also includes **FastAPI backend integration and a React interface** for model selection, image inference, and multi-model comparison.
+
+**Repository:**
+https://github.com/imaddaya/renal-tumor-subtype-classification
+
+---
+
+### 🎬 Movie Watchlist
+
+A React application for discovering movies and TV shows using the **TMDB API**, with watchlist management and persistent client-side state.
+
+Built with **React, React Router, Zustand, Axios, and Vite**.
+
+**Repository:**
+https://github.com/imaddaya/Movie-Watchlist
+
+---
+
+### 🌱 Currently Learning
+
+I'm currently strengthening my backend development skills with:
+
+**Java • Spring Boot • Hibernate**
+
+I'm particularly interested in applying my existing experience with REST APIs, databases, authentication, and backend architecture to the Java ecosystem.
+
+---
+
+### 💡 Interests
+
+Software Engineering • Backend Development • Full-Stack Development • AI / Machine Learning • Computer Vision
+
+---
+
+⚡ Fun fact: I finished Luxor on hard mode.
