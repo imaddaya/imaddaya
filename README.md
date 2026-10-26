@@ -41,10 +41,21 @@ A full-stack stock portfolio management application built with **React, Next.js,
 Features include authentication, stock search, portfolio management, market-data integration, historical performance tracking, gains/losses analytics, interactive charts, email verification, password reset, and scheduled portfolio summaries.
 
 **Backend:**
-https://github.com/imaddaya/stock-tracker
+https://github.com/imaddaya/stock-tracker-backend
 
 **Frontend:**
-https://github.com/imaddaya/stock-porfolio-tracker-frontend
+https://github.com/imaddaya/stock-tracker-frontend
+
+---
+
+### 💳 LedgerFlow
+
+An educational fintech simulation built with **Java, Spring Boot, Angular, TypeScript, and JPA/Hibernate**.
+
+It demonstrates payment approvals, a double-entry ledger, refunds, and CSV statement reconciliation using simulated transactions for local demonstration.
+
+**Repository:**
+https://github.com/imaddaya/ledgerflow
 
 ---
 
